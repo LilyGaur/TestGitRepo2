@@ -1,3 +1,4 @@
 File 3 content here.
 
 #include <includeFile3.h>
+#include <startingNewFeature.h>
