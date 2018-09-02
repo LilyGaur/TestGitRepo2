@@ -4,3 +4,4 @@ File 3 content here.
 #include <startingNewFeature.h>
 #include <hotfixUrgent>
 #include <hotfix>
+#include <feature2>s
